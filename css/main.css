@@ -1,6 +1,6 @@
 :root {
     /* --main-color: #3f4371; */
-    --main-color: red;
+    --main-color: #3f4371;
     --width: 1000px;
 }
 
@@ -45,7 +45,7 @@ body {
     margin-left: 0;
 }
 
-.main-nav > .link:hover
+.main-nav > .link:hover,
 .main-nav > .link.active {
     border-color: var(--main-color);
 }
