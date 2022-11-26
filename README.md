@@ -14,7 +14,7 @@ This project is for educational porpuses only. Pull request are welcome, but pri
 
 Site published at: https://domukasm.github.io/03-happyweekend/
 
-Design: [UFO](./design/ufonautas.png)
+Design: [YOGA](./design/design.png)
 
 ## 🎯 Project features/goals
 
